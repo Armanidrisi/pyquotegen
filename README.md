@@ -34,4 +34,6 @@ print(quotebycategory)
 - attitude
 - coding
 
+Check Out On PyPi: [click here](https://pypi.org/project/pyquotegen/)
+
 Try It Once
