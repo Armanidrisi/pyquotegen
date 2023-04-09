@@ -1,6 +1,5 @@
 # pyquotegen :speech_balloon:
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PyPI version](https://badge.fury.io/py/pyquotegen.svg)](https://badge.fury.io/py/pyquotegen)
 [![Downloads](https://pepy.tech/badge/pyquotegen)](https://pepy.tech/project/pyquotegen)
 [![GitHub license](https://img.shields.io/github/license/Armanidrisi/pyquotegen)](https://github.com/Armanidrisi/pyquotegen/blob/main/LICENSE)
