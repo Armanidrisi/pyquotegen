@@ -1,9 +1,14 @@
 # pyquotegen :speech_balloon:
 
-[![PyPI version](https://badge.fury.io/py/pyquotegen.svg)](https://badge.fury.io/py/pyquotegen)
-[![Downloads](https://pepy.tech/badge/pyquotegen)](https://pepy.tech/project/pyquotegen)
-[![GitHub license](https://img.shields.io/github/license/Armanidrisi/pyquotegen)](https://github.com/Armanidrisi/pyquotegen/blob/main/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/Armanidrisi/pyquotegen)](https://github.com/Armanidrisi/pyquotegen/issues)
+[![PyPI - Downloads](https://img.shields.io/pypi/dm/pyquotegen?color=blue&logo=python)](https://pypi.org/project/pyquotegen/)
+[![Total Downloads](https://pepy.tech/badge/pyquotegen)](https://pepy.tech/project/pyquotegen)
+[![PyPI Version](https://img.shields.io/pypi/v/pyquotegen?color=blue&label=PyPI%20version&logo=python)](https://pypi.org/project/pyquotegen/)
+[![GitHub stars](https://img.shields.io/github/stars/Armanidrisi/pyquotegen?style=flat-square&logo=github)](https://github.com/Armanidrisi/pyquotegen/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Armanidrisi/pyquotegen?style=flat-square&logo=github)](https://github.com/Armanidrisi/pyquotegen/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/Armanidrisi/pyquotegen?style=flat-square&logo=github)](https://github.com/Armanidrisi/pyquotegen/issues)
+[![GitHub license](https://img.shields.io/github/license/Armanidrisi/pyquotegen?style=flat-square&logo=github)](https://github.com/Armanidrisi/pyquotegen/blob/master/LICENSE)
+[![GitHub contributors](https://img.shields.io/github/contributors/Armanidrisi/pyquotegen?style=flat-square&logo=github)](https://github.com/Armanidrisi/pyquotegen/graphs/contributors)
+[![pyquotegen](https://img.shields.io/badge/pyquotegen-awesome-blueviolet?style=flat-square&logo=github)](https://github.com/Armanidrisi/pyquotegen)
 
 
 `pyquotegen` is a Python package that provides a simple way to generate random quotes. :thought_balloon:
