@@ -1,6 +1,6 @@
 # pyquotegen :speech_balloon:
 
-[![PyPI - Downloads](https://img.shields.io/pypi/dm/pyquotegen?color=blue&logo=python)](https://pypi.org/project/pyquotegen/)
+
 [![Total Downloads](https://pepy.tech/badge/pyquotegen)](https://pepy.tech/project/pyquotegen)
 [![PyPI Version](https://img.shields.io/pypi/v/pyquotegen?color=blue&label=PyPI%20version&logo=python)](https://pypi.org/project/pyquotegen/)
 [![GitHub stars](https://img.shields.io/github/stars/Armanidrisi/pyquotegen?style=flat-square&logo=github)](https://github.com/Armanidrisi/pyquotegen/stargazers)
