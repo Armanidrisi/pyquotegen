@@ -1,9 +1,0 @@
-theme: jekyll-theme-cayman 
-  
-title: pyquotegen
-  
-show_downloads: true 
-  
-include: [README.md] 
-  
-plugins: - jemoji
