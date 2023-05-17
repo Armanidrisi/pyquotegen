@@ -1,0 +1,6 @@
+theme: jekyll-theme-minima
+title: pyquotegen
+show_downloads: true
+include: [README.md]
+plugins:
+  - jemoji
